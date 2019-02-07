@@ -1,3 +1,3 @@
 # acynctaskLab
 
-A example of using acynctask in Android
+A example of using acynctask in Android Studio
